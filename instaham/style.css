@@ -1,0 +1,84 @@
+body {
+	
+	font-family: 'Oleo Script', cursive;
+	  background-image:url(images/pigtail.png);
+	  background-color: pink;
+
+	
+	
+}
+.content {
+  margin: auto;
+  width: 60%;
+  text-align:center;
+
+  padding: 10px;
+   background-color: pink;
+
+}
+.content2 {
+  margin: auto;
+  width: 60%;
+  text-align:center;
+
+  padding: 10px;
+  background-color:#dbfce6;
+
+}
+
+h1{
+	font-size: 40px;
+	letter-spacing: 3px;
+	text-shadow: 3px 3px white;
+	background-color:pink;
+	display:block;
+	border: 3px dotted white;
+	
+}
+h2{
+	font-size: 25px;
+	letter-spacing: 2px;
+	text-shadow: 2px 2px white;
+	background-color:pink;
+border: 3px dotted white;
+}
+
+h3 {
+	font-size:20px;
+letter-spacing: 1px;
+text-shadow: 1px 1px white;
+background-color:pink;
+border: 3px dotted white;
+}
+
+p {
+	font-size: 18px;
+	letter-spacing: 1px;
+	background-color:pink;
+	border: 3px dotted white;
+}
+
+a {
+  color:#9cb8e6;
+  font-size:40px;
+}
+a:hover {
+  color:#ffe0e6;
+}
+
+.hampics{
+ 	
+ 	margin: auto;
+ 	width:60%;
+ 	  padding: 10px;
+ 	  border: 10px solid white;
+ 	  background-color: white;
+
+ }
+
+ img{
+ 	margin:auto;
+ 	width:40%;
+ 	height:auto;
+ }
+ 
